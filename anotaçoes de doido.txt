@@ -1,0 +1,14 @@
+codigos do exercicio                                                                                                                            sites para facilitar a programaçao 
+                                                                                                                                                                      https://books.google.com.br/?hl=pt-BR  procur sitaçoes de livros no google
+img  coloca uma imagem no site                                                                                                           https://iconarchive.com/                                                           
+p faz um pararafo no site 						                 https://www.iana.org/assignments/media-types/media-types.xhtml																			
+! faz a base do site 								https://color.adobe.com/pt/create/color-wheel					
+h1 coloca um titulo no site 							https://coolors.co/000000-698f3f-3a0ca3-ae2d09-1985a1										
+hr coloca uma linha em baixo do texto 						https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF												
+Q siginifica sitaçao 								https://www.w3schools.com/cssref/css_websafe_fonts.asp													
+PRE e usado para deixar tudo escrito do jeito que ta no visial code																		
+crtl shift 	P serve para colocar uma linha ja escrita em um codigo 	
+CODE??????																				
+blockquote  faz uma sitaçao maior que a do ''q'' e coloca em blocos
+ol(a,i,A,I) e um codigo para fazer uma lista ordenada  	
+ul faz uma lista desordenada mescladoum o cofigo (type square disc circle aquare) forma bolinhas ou outros popicos			PALETA DE CORES :#A33718														
